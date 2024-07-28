@@ -1,0 +1,8 @@
+colorama
+python-dotenv
+python-telegram-bot
+mnemonic
+ecdsa
+bip32utils
+requests
+base58
